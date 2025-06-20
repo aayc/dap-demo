@@ -1,6 +1,6 @@
 # DAP Demo - Debug Adapter Protocol Playground
 
-A complex data analysis pipeline with hidden secrets and subtle bugs for demonstrating DAP debugging capabilities.
+A complex data analysis pipeline with hidden secrets and subtle bugs for demonstrating DAP debugging capabilities. The perfect playground for teaching a coding agent to use the debugger in order to pass tests by setting breakpoints to observe stack frames, variables, etc.
 
 ## Structure
 
